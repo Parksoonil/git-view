@@ -67,7 +67,13 @@ const linksList = [
     caption: 'vue + store 실습',
     icon: 'home',
     link: '/todo'
-  }
+  },
+  {
+    title: "db todo list",
+    caption: "vue + database",
+    icon: "chat",
+    link: "/dbtodo",
+  },
 ]
 
 export default defineComponent({
